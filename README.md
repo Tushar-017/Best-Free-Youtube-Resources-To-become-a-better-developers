@@ -2,7 +2,7 @@
 ---
 ### I hope you found it useful 😁
 
-You will like these tutorials/projects!
+You will like these tutorials/projects/lifestyle !
 
 ___
 
@@ -31,5 +31,14 @@ ___
 - __[Codesmith](https://www.youtube.com/c/Codesmith-School)__ - Codesmith
 
 - __[Something New](https://www.youtube.com/channel/UCm0ahNO0chLb-MOjTPjC0cQ/featured)__ - Something New
+
+- __[The Net Ninja](https://www.youtube.com/c/TheNetNinja)__ - The Net Ninja
+
+- __[Coding Addict](https://www.youtube.com/c/CodingAddict/videos)__ - Coding Addict
+
+- __[Florin Pop](https://www.youtube.com/c/CodingAddict/videos)__ - Florin Pop 
+
+- __[Adam Khoury](https://www.youtube.com/c/AdamKhoury)__ - Adam Khoury 
+
 
 
